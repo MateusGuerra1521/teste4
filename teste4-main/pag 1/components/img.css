@@ -15,3 +15,23 @@
 .coluna{
     font-size: 18px;
 }
+.corrida{
+    width: 200px;
+    height: 190px;
+}
+.futebol{
+    width: 200px;
+    height: 190px;
+}
+.skate{
+    width: 300px;
+    height: 190px;
+}
+.video{
+    margin-top: 50px;
+    width: 800px;
+    height: 500px;
+}
+.espaco-video{
+    text-align: center;
+}
